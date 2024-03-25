@@ -1,8 +1,10 @@
 # Crisis-Social-Cues
 -----
-This repository contains the dataset released in the paper: Recognizing Social Cues in Crisis Situations. 
+This repository contains the annotation guideline and the dataset released in the paper: Recognizing Social Cues in Crisis Situations. 
 
-The training, development and test data could be found in the *data* directory. Each file contains two columns: the tweet ID and the human-annotated social cue type. 
+**Dataset** : The training, development and test data could be found in the *data* directory. Each file contains two columns: the tweet ID and the human-annotated social cue type. 
+
+**Annotation Guideline**: The annotation guideline could be accessed at [this Google Doc](https://docs.google.com/document/d/1lLsVDd7bZMex9jhAOZqsahefpUQWV9hEi7a3KxagOQY/edit?usp=sharing). 
 
 -----
 ## Contact
